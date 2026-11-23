@@ -326,4 +326,6 @@ footer {
     height: 260px;
     object-fit: cover;
     border-radius: 15px;
+    border: 4px solid white;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
